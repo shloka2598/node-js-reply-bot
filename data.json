@@ -1,0 +1,26 @@
+[
+  {
+    "question": "How are you ?",
+    "answer": "I am fine."
+  },
+  {
+    "question": "How are you",
+    "answer": "I am fine."
+  },
+  {
+    "question": "What is your name ?",
+    "answer": "I am a chat bot."
+  },
+  {
+    "question": "What is your name",
+    "answer": "I am a chat bot."
+  },
+  {
+    "question": "Who made you ?",
+    "answer": "Shloka Jain"
+  },
+  {
+    "question": "Who made you",
+    "answer": "Shloka Jain"
+  }
+]
